@@ -7,7 +7,7 @@ Exercício do curso <b>JavaScript: classes e heranças no desenvolvimento de apl
 
 Para visualizar a página funcionando: 
 
-<a href="https://lucasjdantas.github.io/exercicio-alura-js-tarefas-concorrentes-oo-01/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white" target="_blank"></a>
+<a href="https://lucasjdantas.github.io/exercicio-alura-js-tarefas-concorrentes-oo-02/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white" target="_blank"></a>
 
 <hr>
 
